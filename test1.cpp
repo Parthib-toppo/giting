@@ -7,5 +7,5 @@ using namespace std;
 #define ll long long
 
 int main(){
-    cout<<"hello git"<<endl;    
+    cout<<"hello git."<<endl;    
 }
